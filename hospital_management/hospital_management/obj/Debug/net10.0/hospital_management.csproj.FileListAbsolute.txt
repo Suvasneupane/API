@@ -1,0 +1,14 @@
+D:\C#\hospital_management\hospital_management\bin\Debug\net10.0\hospital_management.exe
+D:\C#\hospital_management\hospital_management\bin\Debug\net10.0\hospital_management.deps.json
+D:\C#\hospital_management\hospital_management\bin\Debug\net10.0\hospital_management.runtimeconfig.json
+D:\C#\hospital_management\hospital_management\bin\Debug\net10.0\hospital_management.dll
+D:\C#\hospital_management\hospital_management\bin\Debug\net10.0\hospital_management.pdb
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.AssemblyInfoInputs.cache
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.AssemblyInfo.cs
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.csproj.CoreCompileInputs.cache
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.dll
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\refint\hospital_management.dll
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.pdb
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\hospital_management.genruntimeconfig.cache
+D:\C#\hospital_management\hospital_management\obj\Debug\net10.0\ref\hospital_management.dll

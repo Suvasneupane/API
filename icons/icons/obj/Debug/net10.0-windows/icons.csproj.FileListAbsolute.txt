@@ -1,0 +1,16 @@
+D:\C#\icons\icons\bin\Debug\net10.0-windows\icons.exe
+D:\C#\icons\icons\bin\Debug\net10.0-windows\icons.deps.json
+D:\C#\icons\icons\bin\Debug\net10.0-windows\icons.runtimeconfig.json
+D:\C#\icons\icons\bin\Debug\net10.0-windows\icons.dll
+D:\C#\icons\icons\bin\Debug\net10.0-windows\icons.pdb
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.csproj.GenerateResource.cache
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.AssemblyInfoInputs.cache
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.AssemblyInfo.cs
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.csproj.CoreCompileInputs.cache
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.dll
+D:\C#\icons\icons\obj\Debug\net10.0-windows\refint\icons.dll
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.pdb
+D:\C#\icons\icons\obj\Debug\net10.0-windows\icons.genruntimeconfig.cache
+D:\C#\icons\icons\obj\Debug\net10.0-windows\ref\icons.dll
+D:\C#\icons\icons\obj\Debug\net10.0-windows\ImageToIconConverter.Form1.resources

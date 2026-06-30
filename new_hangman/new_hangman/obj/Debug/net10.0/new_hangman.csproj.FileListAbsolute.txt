@@ -1,0 +1,14 @@
+D:\C#\new_hangman\new_hangman\bin\Debug\net10.0\new_hangman.exe
+D:\C#\new_hangman\new_hangman\bin\Debug\net10.0\new_hangman.deps.json
+D:\C#\new_hangman\new_hangman\bin\Debug\net10.0\new_hangman.runtimeconfig.json
+D:\C#\new_hangman\new_hangman\bin\Debug\net10.0\new_hangman.dll
+D:\C#\new_hangman\new_hangman\bin\Debug\net10.0\new_hangman.pdb
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.AssemblyInfoInputs.cache
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.AssemblyInfo.cs
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.csproj.CoreCompileInputs.cache
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.dll
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\refint\new_hangman.dll
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.pdb
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\new_hangman.genruntimeconfig.cache
+D:\C#\new_hangman\new_hangman\obj\Debug\net10.0\ref\new_hangman.dll

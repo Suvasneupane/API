@@ -1,0 +1,14 @@
+L:\hw\hw\bin\Debug\net10.0\hw.exe
+L:\hw\hw\bin\Debug\net10.0\hw.deps.json
+L:\hw\hw\bin\Debug\net10.0\hw.runtimeconfig.json
+L:\hw\hw\bin\Debug\net10.0\hw.dll
+L:\hw\hw\bin\Debug\net10.0\hw.pdb
+L:\hw\hw\obj\Debug\net10.0\hw.GeneratedMSBuildEditorConfig.editorconfig
+L:\hw\hw\obj\Debug\net10.0\hw.AssemblyInfoInputs.cache
+L:\hw\hw\obj\Debug\net10.0\hw.AssemblyInfo.cs
+L:\hw\hw\obj\Debug\net10.0\hw.csproj.CoreCompileInputs.cache
+L:\hw\hw\obj\Debug\net10.0\hw.dll
+L:\hw\hw\obj\Debug\net10.0\refint\hw.dll
+L:\hw\hw\obj\Debug\net10.0\hw.pdb
+L:\hw\hw\obj\Debug\net10.0\hw.genruntimeconfig.cache
+L:\hw\hw\obj\Debug\net10.0\ref\hw.dll

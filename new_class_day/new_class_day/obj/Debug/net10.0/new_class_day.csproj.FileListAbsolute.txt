@@ -1,0 +1,14 @@
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.AssemblyInfoInputs.cache
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.AssemblyInfo.cs
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.csproj.CoreCompileInputs.cache
+D:\C#\new_class_day\new_class_day\bin\Debug\net10.0\new_class_day.exe
+D:\C#\new_class_day\new_class_day\bin\Debug\net10.0\new_class_day.deps.json
+D:\C#\new_class_day\new_class_day\bin\Debug\net10.0\new_class_day.runtimeconfig.json
+D:\C#\new_class_day\new_class_day\bin\Debug\net10.0\new_class_day.dll
+D:\C#\new_class_day\new_class_day\bin\Debug\net10.0\new_class_day.pdb
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.dll
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\refint\new_class_day.dll
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.pdb
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\new_class_day.genruntimeconfig.cache
+D:\C#\new_class_day\new_class_day\obj\Debug\net10.0\ref\new_class_day.dll

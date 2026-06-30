@@ -1,0 +1,6 @@
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\OfficeToPDFConverter.Form1.resources
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\pdf _converter.csproj.GenerateResource.cache
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\pdf _converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\pdf _converter.AssemblyInfoInputs.cache
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\pdf _converter.AssemblyInfo.cs
+D:\C#\pdf _converter\pdf _converter\obj\Debug\net10.0-windows\pdf _converter.csproj.CoreCompileInputs.cache

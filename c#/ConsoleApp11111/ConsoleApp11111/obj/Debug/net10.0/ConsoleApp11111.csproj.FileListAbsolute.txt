@@ -1,0 +1,14 @@
+L:\ConsoleApp11111\ConsoleApp11111\bin\Debug\net10.0\ConsoleApp11111.exe
+L:\ConsoleApp11111\ConsoleApp11111\bin\Debug\net10.0\ConsoleApp11111.deps.json
+L:\ConsoleApp11111\ConsoleApp11111\bin\Debug\net10.0\ConsoleApp11111.runtimeconfig.json
+L:\ConsoleApp11111\ConsoleApp11111\bin\Debug\net10.0\ConsoleApp11111.dll
+L:\ConsoleApp11111\ConsoleApp11111\bin\Debug\net10.0\ConsoleApp11111.pdb
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.GeneratedMSBuildEditorConfig.editorconfig
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.AssemblyInfoInputs.cache
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.AssemblyInfo.cs
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.csproj.CoreCompileInputs.cache
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.dll
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\refint\ConsoleApp11111.dll
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.pdb
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ConsoleApp11111.genruntimeconfig.cache
+L:\ConsoleApp11111\ConsoleApp11111\obj\Debug\net10.0\ref\ConsoleApp11111.dll

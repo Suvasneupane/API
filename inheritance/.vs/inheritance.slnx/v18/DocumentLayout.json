@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|d:\\c#\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|d:\\c#\\inheritance\\inheritance\\in\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\in\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|d:\\c#\\inheritance\\inheritance\\in\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635B7262-C5FA-7CC6-1A18-D61D1D53B063}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\in\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animal.cs",
+              "DocumentMoniker": "D:\\C#\\inheritance\\inheritance\\in\\animal.cs",
+              "RelativeDocumentMoniker": "inheritance\\in\\animal.cs",
+              "ToolTip": "D:\\C#\\inheritance\\inheritance\\in\\animal.cs",
+              "RelativeToolTip": "inheritance\\in\\animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:13:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\inheritance\\inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\Program.cs",
+              "ToolTip": "D:\\C#\\inheritance\\inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:07:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dog.cs",
+              "DocumentMoniker": "D:\\C#\\inheritance\\inheritance\\in\\dog.cs",
+              "RelativeDocumentMoniker": "inheritance\\in\\dog.cs",
+              "ToolTip": "D:\\C#\\inheritance\\inheritance\\in\\dog.cs",
+              "RelativeToolTip": "inheritance\\in\\dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T07:07:37.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|d:\\c#\\employee\\employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|solutionrelative:employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|d:\\c#\\employee\\employee\\employeee\\devloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|solutionrelative:employee\\employeee\\devloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|d:\\c#\\employee\\employee\\employeee\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|solutionrelative:employee\\employeee\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|d:\\c#\\employee\\employee\\employeee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AA6115-7C7E-5EC9-663C-1E9D7CB118E1}|employee\\employee.csproj|solutionrelative:employee\\employeee\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\C#\\employee\\employee\\employeee\\Employee.cs",
+              "RelativeDocumentMoniker": "employee\\employeee\\Employee.cs",
+              "ToolTip": "D:\\C#\\employee\\employee\\employeee\\Employee.cs",
+              "RelativeToolTip": "employee\\employeee\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:12:12.649Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\C#\\employee\\employee\\employeee\\Manager.cs",
+              "RelativeDocumentMoniker": "employee\\employeee\\Manager.cs",
+              "ToolTip": "D:\\C#\\employee\\employee\\employeee\\Manager.cs*",
+              "RelativeToolTip": "employee\\employeee\\Manager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:13:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Devloper.cs",
+              "DocumentMoniker": "D:\\C#\\employee\\employee\\employeee\\Devloper.cs",
+              "RelativeDocumentMoniker": "employee\\employeee\\Devloper.cs",
+              "ToolTip": "D:\\C#\\employee\\employee\\employeee\\Devloper.cs",
+              "RelativeToolTip": "employee\\employeee\\Devloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:12:26.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\employee\\employee\\Program.cs",
+              "RelativeDocumentMoniker": "employee\\Program.cs",
+              "ToolTip": "D:\\C#\\employee\\employee\\Program.cs",
+              "RelativeToolTip": "employee\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T08:11:31.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

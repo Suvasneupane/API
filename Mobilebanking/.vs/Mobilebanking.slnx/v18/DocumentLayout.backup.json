@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Mobilebanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|d:\\c#\\mobilebanking\\mobilebanking\\banking\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|solutionrelative:mobilebanking\\banking\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|d:\\c#\\mobilebanking\\mobilebanking\\banking\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|solutionrelative:mobilebanking\\banking\\transcation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|d:\\c#\\mobilebanking\\mobilebanking\\banking\\intrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|solutionrelative:mobilebanking\\banking\\intrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|d:\\c#\\mobilebanking\\mobilebanking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB9A2E2E-B08E-CE44-28CE-6BB77E2DECAA}|Mobilebanking\\Mobilebanking.csproj|solutionrelative:mobilebanking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 727,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Accounts.cs",
+              "RelativeDocumentMoniker": "Mobilebanking\\Banking\\Accounts.cs",
+              "ToolTip": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Accounts.cs",
+              "RelativeToolTip": "Mobilebanking\\Banking\\Accounts.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwF4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:36:43.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transcation.cs",
+              "DocumentMoniker": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Transcation.cs",
+              "RelativeDocumentMoniker": "Mobilebanking\\Banking\\Transcation.cs",
+              "ToolTip": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Transcation.cs",
+              "RelativeToolTip": "Mobilebanking\\Banking\\Transcation.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:55:53.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intrest.cs",
+              "DocumentMoniker": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Intrest.cs",
+              "RelativeDocumentMoniker": "Mobilebanking\\Banking\\Intrest.cs",
+              "ToolTip": "D:\\C#\\Mobilebanking\\Mobilebanking\\Banking\\Intrest.cs",
+              "RelativeToolTip": "Mobilebanking\\Banking\\Intrest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:49:22.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Mobilebanking\\Mobilebanking\\Program.cs",
+              "RelativeDocumentMoniker": "Mobilebanking\\Program.cs",
+              "ToolTip": "D:\\C#\\Mobilebanking\\Mobilebanking\\Program.cs",
+              "RelativeToolTip": "Mobilebanking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T06:35:17.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

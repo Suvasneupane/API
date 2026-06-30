@@ -1,0 +1,14 @@
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.AssemblyInfoInputs.cache
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.AssemblyInfo.cs
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.csproj.CoreCompileInputs.cache
+L:\guess_the_number\guess_the_number\bin\Debug\net10.0\guess_the_number.exe
+L:\guess_the_number\guess_the_number\bin\Debug\net10.0\guess_the_number.deps.json
+L:\guess_the_number\guess_the_number\bin\Debug\net10.0\guess_the_number.runtimeconfig.json
+L:\guess_the_number\guess_the_number\bin\Debug\net10.0\guess_the_number.dll
+L:\guess_the_number\guess_the_number\bin\Debug\net10.0\guess_the_number.pdb
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.dll
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\refint\guess_the_number.dll
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.pdb
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\guess_the_number.genruntimeconfig.cache
+L:\guess_the_number\guess_the_number\obj\Debug\net10.0\ref\guess_the_number.dll

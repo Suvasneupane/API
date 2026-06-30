@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\icons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|d:\\c#\\icons\\icons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|solutionrelative:icons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|D:\\C#\\icons\\icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|solutionrelative:icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CAF04D-F3E9-43F2-8154-361447CB0647}|icons\\icons.csproj|D:\\C#\\icons\\icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CAF04D-F3E9-43F2-8154-361447CB0647}|icons\\icons.csproj|solutionrelative:icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|d:\\c#\\icons\\icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|solutionrelative:icons\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|d:\\c#\\icons\\icons\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D88827BB-40BD-EE20-E58D-79178D0EEC2F}|icons\\icons.csproj|solutionrelative:icons\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 727,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\icons\\icons\\Form1.cs",
+              "RelativeDocumentMoniker": "icons\\Form1.cs",
+              "ToolTip": "D:\\C#\\icons\\icons\\Form1.cs [Design]",
+              "RelativeToolTip": "icons\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T07:20:17.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\icons\\icons\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "icons\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\icons\\icons\\Form1.Designer.cs",
+              "RelativeToolTip": "icons\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:56:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\icons\\icons\\Program.cs",
+              "RelativeDocumentMoniker": "icons\\Program.cs",
+              "ToolTip": "D:\\C#\\icons\\icons\\Program.cs",
+              "RelativeToolTip": "icons\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:56:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\icons\\icons\\Form1.cs",
+              "RelativeDocumentMoniker": "icons\\Form1.cs",
+              "ToolTip": "D:\\C#\\icons\\icons\\Form1.cs",
+              "RelativeToolTip": "icons\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:52:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\icons\\icons\\Form1.cs",
+              "RelativeDocumentMoniker": "icons\\Form1.cs",
+              "ToolTip": "D:\\C#\\icons\\icons\\Form1.cs [Design]",
+              "RelativeToolTip": "icons\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T16:51:24.642Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

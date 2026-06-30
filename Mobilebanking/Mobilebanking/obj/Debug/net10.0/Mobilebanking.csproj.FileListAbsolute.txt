@@ -1,0 +1,14 @@
+D:\C#\Mobilebanking\Mobilebanking\bin\Debug\net10.0\Mobilebanking.exe
+D:\C#\Mobilebanking\Mobilebanking\bin\Debug\net10.0\Mobilebanking.deps.json
+D:\C#\Mobilebanking\Mobilebanking\bin\Debug\net10.0\Mobilebanking.runtimeconfig.json
+D:\C#\Mobilebanking\Mobilebanking\bin\Debug\net10.0\Mobilebanking.dll
+D:\C#\Mobilebanking\Mobilebanking\bin\Debug\net10.0\Mobilebanking.pdb
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.AssemblyInfoInputs.cache
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.AssemblyInfo.cs
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.csproj.CoreCompileInputs.cache
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.dll
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\refint\Mobilebanking.dll
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.pdb
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\Mobilebanking.genruntimeconfig.cache
+D:\C#\Mobilebanking\Mobilebanking\obj\Debug\net10.0\ref\Mobilebanking.dll

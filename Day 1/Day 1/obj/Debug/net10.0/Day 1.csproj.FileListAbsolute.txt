@@ -1,0 +1,98 @@
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\appsettings.Development.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\appsettings.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.staticwebassets.runtime.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.staticwebassets.endpoints.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.exe
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.deps.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.runtimeconfig.json
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.dll
+D:\C#\Day 1\Day 1\bin\Debug\net10.0\Day 1.pdb
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.AssemblyInfoInputs.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.AssemblyInfo.cs
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.csproj.CoreCompileInputs.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.RazorAssemblyInfo.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.RazorAssemblyInfo.cs
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\scopedcss\bundle\Day 1.styles.css
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\scopedcss\projectbundle\Day 1.bundle.scp.css
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\sqhbkjpq1l-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\ncyxzapry9-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\745g7be0py-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\f95m9x686n-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\q8vrw6vs9p-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\2imp5rg18x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\3jbygfjo33-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\4xzudmu5z8-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\ehjrv320u8-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\posppyvs1j-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\5oatjbqrvw-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\iq8qqxjpzu-{0}-ub07r2b239-ub07r2b239.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\tniw64xgri-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\8924wyno3c-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\m83wodznlc-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\4mu8w4ikvy-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\f0vmp7knji-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\8rgxcl023t-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\dkpq0quvjr-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\rn65kc1z5n-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\5n97fv0qhc-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\yzax0dm3lg-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\9g2i3v5tga-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\7w2bfs1agx-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\wfv7bpr30b-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\nu7bup8ytj-{0}-06098lyss8-06098lyss8.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\qtrnbcv2yg-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\m2n12gl6qv-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\9poupg01v7-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\iigdpbv20v-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\bdjj9v5dig-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\oov5t603ql-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\qhjhf9y2w3-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\m5aws0hy01-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\evdxzbpf0b-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\8hoailvsjr-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\bipc3j3lmi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\45j7cjx2wk-{0}-493y06b0oq-493y06b0oq.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\sn974wwj8s-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\pfmr9a0oa9-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\ah970qlqu7-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\mpfgeba6iy-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\ntpkldx655-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\bwqmi2etse-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\74y7htzmkd-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\1fpcrinvrc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\103rqw741o-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\4xef5fw4qa-{0}-47otxtyo56-47otxtyo56.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\vznrffmq51-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\5r77w186ge-{0}-356vix0kms-356vix0kms.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\9scud8ip4u-{0}-83jwlth58m-83jwlth58m.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\k5okm97ytx-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\qhafzpwlye-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\kb8crzgtfp-{0}-ag7o75518u-ag7o75518u.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\zqsdbxdx9s-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\1bwio38t3a-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\36o6euysdg-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\g6uf8rs7ad-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\zwwu7utyot-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\mozhtypuhs-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\q9iwkij1nb-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\ou5xiiuga5-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\5umwf05y2l-{0}-n07x5qli4q-n07x5qli4q.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\compressed\47q56dtyma-{0}-n07x5qli4q-n07x5qli4q.gz
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\staticwebassets.build.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\staticwebassets.development.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\swae.build.ex.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.dll
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\refint\Day 1.dll
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.pdb
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\Day 1.genruntimeconfig.cache
+D:\C#\Day 1\Day 1\obj\Debug\net10.0\ref\Day 1.dll

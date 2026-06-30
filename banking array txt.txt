@@ -1,0 +1,418 @@
+
+//account.cs code=>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Mobilebanking.Banking
+{
+    public class Accounts
+    {
+
+       public  string[] name= new string[100];
+       public int[] age=new int[100];
+       public string[] address= new string[100];
+     public   string[] gender=new string[100];
+       public  int[] customer_id=new int[100];
+        public int[] NID_NO=new int[100];
+        public static int [] balance = new int[100];
+        public int count = 0;
+        public int bank_tejori = 99999999;
+
+
+
+        public void saving_account()
+        {
+
+
+
+            Console.WriteLine();
+            Console.Write("Name: ");
+            name[count]= Console.ReadLine();
+            Console.Write("Age: ");
+            age[count] = int.Parse(Console.ReadLine());
+            Console.Write("Address: ");
+            address[count] = Console.ReadLine();
+            Console.Write("Enter the Customer_Id: ");
+            customer_id[count] = int.Parse(Console.ReadLine());
+            Console.Write("Gender (M/F): ");
+            gender[count] = Console.ReadLine();
+            Console.Write("NID NO : ");
+            NID_NO[count] = int.Parse(Console.ReadLine());
+            Console.Write("Enter the Inital Balance: ");
+            balance[count] = int.Parse(Console.ReadLine());
+            Console.WriteLine("Saving Account opened Successfullt !!!!");
+            count++;
+
+
+        }
+
+        public void show_balance()
+        {
+            Console.Write("Enter Customer Index (0-" + (count - 1) + "): ");
+            int index = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Balance: " + balance[index]);
+
+        }
+        public  void display()
+        {
+
+
+           for(int i = 0; i < count; i++)
+            {
+                Console.WriteLine();
+                Console.WriteLine("Customer " + (i + 1));
+                Console.WriteLine();
+                Console.WriteLine("Name: " + name[i]);
+                Console.WriteLine("Age: " + age[i]);
+                Console.WriteLine("Address: " + address[i]);
+                Console.WriteLine("Gender: " + gender[i]);
+                Console.WriteLine("Customer Id: " + customer_id[i]);
+                Console.WriteLine("NID NO: " + NID_NO[i]);
+                Console.WriteLine("BAlance: " + balance[i]);
+            }
+
+
+        }
+        public void current_account()
+        {
+            Console.WriteLine();
+            Console.Write("Name: ");
+            name[count] =Console.ReadLine();
+            Console.Write("Age: ");
+            age[count] = int.Parse(Console.ReadLine());
+            Console.Write("Address: ");
+            address[count] = Console.ReadLine();
+            Console.Write("Gender (M/F): ");
+            
+            gender[count] = Console.ReadLine();
+            Console.Write("Enter the Customer_Id: ");
+            customer_id[count] = int.Parse(Console.ReadLine());
+            Console.Write("NID NO : ");
+            NID_NO[count] = int.Parse(Console.ReadLine());
+            Console.Write("Enter the Inital Balance: ");
+            balance[count] = int.Parse(Console.ReadLine());
+            Console.WriteLine("Current Account opened Successfully !!");
+
+
+        }
+
+    }
+}
+
+
+
+program.cs=>
+
+using Mobilebanking.Banking;
+
+Console.WriteLine("************** Welcome to ABC BANK OF NEPAL !! **************");
+
+string account_type;
+Intrest intrest = new Intrest();
+
+do
+{
+    Console.WriteLine();
+    Console.WriteLine("What type of Account do you want to open ?");
+    Console.WriteLine("1.Saving ");
+    Console.WriteLine("2.Current ");
+    Console.WriteLine("3.Exit");
+    account_type = Console.ReadLine();
+
+    if (account_type == "3") { Console.WriteLine("Thank you for visiting ABC Bank of Nepal.");
+        
+        break; }
+
+    Console.Write("Customers to register? ");
+    int n = int.Parse(Console.ReadLine());
+
+    for (int i = 0; i < n; i++)
+    {
+        if (account_type == "1") 
+            intrest.saving_account();
+
+        else 
+            intrest.current_account();
+    }
+
+    Console.Write("\nEnter Customer ID to search: ");
+    int searchId = int.Parse(Console.ReadLine());
+
+    int a = -1;
+    for (int i = 0; i < intrest.count; i++)
+        if (intrest.customer_id[i] == searchId) { 
+            a = i;
+            break; }
+
+    if (a == -1) 
+    {
+        Console.WriteLine("Customer ID " + searchId + " not found."); 
+        continue; }
+
+         Console.WriteLine("Customer Found: " + intrest.name[a]);
+
+    int choice;
+    do
+    {
+        Console.WriteLine();
+        Console.WriteLine("Enter your choice: ");
+        Console.WriteLine("1.Fix Deposit ");
+        Console.WriteLine("2.Deposit ");
+        Console.WriteLine("3.Withdraw");
+        Console.WriteLine("4.Loan ");
+        Console.WriteLine("5.Transfer Money");
+        Console.WriteLine("6.Show Interest  ");
+        Console.WriteLine("7.Show Details  ");
+        Console.WriteLine("8.Balance  ");
+        Console.WriteLine("9.Exit ");
+        choice = int.Parse(Console.ReadLine());
+
+        switch (choice)
+        {
+            case 1: intrest.fixed_deposit(a);
+                
+                break;
+
+            case 2: intrest.deposit(a);
+                break;
+
+            case 3: intrest.withdraw(a);
+                break;
+
+            case 4: intrest.loan(a);
+                break;
+
+            case 5: intrest.transfer(a);
+                break;
+
+            case 6:
+                int choose;
+                if (account_type == "1")
+                {
+                    Console.WriteLine("1.Saving Intrest ");
+                    Console.WriteLine("2.Loan Intrest ");
+                    Console.WriteLine("3.FD Intrest ");
+                    Console.WriteLine("4.Transfer Intrest");
+                    Console.WriteLine("5.Exit ");
+                    choose = int.Parse(Console.ReadLine());
+                    switch (choose)
+                    {
+                        case 1: intrest.saving_interest(a);
+                            break;
+                        case 2: intrest.loan_interest();
+                            break;
+                        case 3: intrest.fd_interest(); 
+                            break;
+                        case 4: intrest.transfer_interest();
+                            break;
+                        case 5: Console.WriteLine("Thank you !!!!!");
+                            break;
+                        default: Console.WriteLine("Invalid entry "); 
+                            break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("1.Loan Intrest ");
+                    Console.WriteLine("2.FD Intrest ");
+                    Console.WriteLine("3.Exit ");
+                    choose = int.Parse(Console.ReadLine());
+                    switch (choose)
+                    {
+                        case 1: intrest.loan_interest();
+                            break;
+                        case 2: intrest.fd_interest();
+                            break;
+                        case 3: Console.WriteLine("Thank you !!!!!");
+                            break;
+                        default: Console.WriteLine("Invalid entry ");
+                            break;
+                    }
+                }
+                break;
+
+            case 7: intrest.display(); 
+                
+                break;
+
+            case 8: intrest.show_balance();
+                
+                break;
+
+            case 9: Console.WriteLine("Thank You !!!!!!!!!!"); 
+                
+                break;
+
+            default: Console.WriteLine("Invalid Entry ");
+                
+                break;
+        }
+
+    } while (choice != 9);
+
+} while (true);
+
+
+intrest.cs=>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Mobilebanking.Banking
+{
+    public class Intrest : Transcation
+    {
+        public int month;
+
+        public void saving_interest(int index)
+        {
+            Console.Write("Enter the month : ");
+            month = int.Parse(Console.ReadLine());
+            int s_interest = (balance[index] * month * 3) / 100;
+            Console.WriteLine("Saving Interest: " + s_interest);
+        }
+
+        public void loan_interest()
+        {
+            Console.WriteLine("Loan Interest: " + l_interest);
+        }
+
+        public void fd_interest()
+        {
+            Console.Write("Enter the FD amount: ");
+            int fdamt = int.Parse(Console.ReadLine());
+            Console.Write("Enter the month : ");
+            month = int.Parse(Console.ReadLine());
+            int fd_int = (fdamt * month * 7) / 100;
+            Console.WriteLine("Fixed Deposit Interest: " + fd_int);
+        }
+
+        public void transfer_interest()
+        {
+            Console.Write("Enter the Transfer amount: ");
+            int tamt = int.Parse(Console.ReadLine());
+            double t_charge = (tamt * 1.5) / 100;
+            Console.WriteLine("Transfer Service Charge (1.5%): " + t_charge);
+        }
+    }
+}
+
+
+transcations.cs=>
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Mobilebanking.Banking
+{
+    public class Transcation : Accounts
+    {
+        public int loanamt;
+        public static int l_interest;
+
+        public void deposit(int index)
+        {
+            Console.Write("Enter the amount: ");
+            int depositeamount = int.Parse(Console.ReadLine());
+            balance[index] = balance[index] + depositeamount;
+            Console.WriteLine("Successfully Deposited ");
+            Console.WriteLine("Current Balance: " + balance[index]);
+        }
+
+        public void withdraw(int index)
+        {
+            Console.Write("Enter the Withdraw Amount: ");
+            int withdrawamount = int.Parse(Console.ReadLine());
+            if (withdrawamount > balance[index])
+            {
+                Console.WriteLine("Insufficient Balance. Your balance: " + balance[index]);
+            }
+            else
+            {
+                balance[index] = balance[index] - withdrawamount;
+                bank_tejori = bank_tejori - withdrawamount;
+                Console.WriteLine("Successfully Withdrawn ");
+                Console.WriteLine("Current balance: " + balance[index]);
+            }
+        }
+
+        public void loan(int index)
+        {
+            Console.Write("Enter the Loan amount: ");
+            loanamt = int.Parse(Console.ReadLine());
+            Console.Write("Enter the month: ");
+            int month = int.Parse(Console.ReadLine());
+            l_interest = (loanamt * month * 5) / 100;
+            balance[index] = balance[index] + loanamt;
+            Console.WriteLine("Enjoy You Gareeb. Loan Approved ");
+            Console.WriteLine("Loan Interest: " + l_interest);
+            Console.WriteLine("Current balance: " + balance[index]);
+            Console.WriteLine("Bank Tejori: " + bank_tejori);
+        }
+
+        public void transfer(int senderIndex)
+        {
+            Console.Write("Enter Recipient Customer ID: ");
+            int recipientId = int.Parse(Console.ReadLine());
+
+           
+            int ri = -1;
+            for (int i = 0; i < count; i++)
+                if (customer_id[i] == recipientId) { ri = i; break; }
+
+            if (ri == -1) {
+                Console.WriteLine("Recipient ID " + recipientId + " not found.");
+                return; }
+
+            Console.WriteLine("Recipient Found: " + name[ri]);
+            Console.Write("Enter the Transfer Amount: ");
+            int transferamount = int.Parse(Console.ReadLine());
+
+            if (transferamount > balance[senderIndex])
+            {
+                Console.WriteLine("Insufficient balance: " + balance[senderIndex]);
+            }
+            else
+            {
+                balance[senderIndex] = balance[senderIndex] - transferamount;
+                balance[ri] = balance[ri] + transferamount;
+                Console.WriteLine("Successfully Transferred " + transferamount + " to " + name[ri]);
+                Console.WriteLine("Your Current balance: " + balance[senderIndex]);
+            }
+        }
+
+        public void fixed_deposit(int index)
+        {
+            Console.Write("Enter the Fixed Deposit amount: ");
+            int fdamount = int.Parse(Console.ReadLine());
+            Console.Write("Enter the Month: ");
+            int month = int.Parse(Console.ReadLine());
+
+            if (fdamount > balance[index])
+            {
+                Console.WriteLine("Insufficient balance ");
+            }
+            else
+            {
+                int fd_interest = (fdamount * month * 7) / 100;
+                int maturity = fdamount + fd_interest;
+                balance[index] = balance[index] - fdamount;
+                Console.WriteLine("Fixed Deposit Successfully ");
+                Console.WriteLine("FD Amount: " + fdamount);
+                Console.WriteLine("Duration: " + month + " months");
+                Console.WriteLine("Interest Rate (7%/month): " + fd_interest);
+                Console.WriteLine("Maturity Amount: " + maturity);
+                Console.WriteLine("Remaining Balance: " + balance[index]);
+            }
+        }
+    }
+}
+
+
+
+

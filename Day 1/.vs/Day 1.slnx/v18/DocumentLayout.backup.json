@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Day 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580CB23E-F1E8-8F80-63A1-A90B6FFE1E1D}|Day 1\\Day 1.csproj|d:\\c#\\day 1\\day 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{580CB23E-F1E8-8F80-63A1-A90B6FFE1E1D}|Day 1\\Day 1.csproj|solutionrelative:day 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 727,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\Day 1\\Day 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#\\Day 1\\Day 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-24T07:24:27.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

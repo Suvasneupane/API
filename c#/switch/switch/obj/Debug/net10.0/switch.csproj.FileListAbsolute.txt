@@ -1,0 +1,14 @@
+L:\switch\switch\bin\Debug\net10.0\switch.exe
+L:\switch\switch\bin\Debug\net10.0\switch.deps.json
+L:\switch\switch\bin\Debug\net10.0\switch.runtimeconfig.json
+L:\switch\switch\bin\Debug\net10.0\switch.dll
+L:\switch\switch\bin\Debug\net10.0\switch.pdb
+L:\switch\switch\obj\Debug\net10.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+L:\switch\switch\obj\Debug\net10.0\switch.AssemblyInfoInputs.cache
+L:\switch\switch\obj\Debug\net10.0\switch.AssemblyInfo.cs
+L:\switch\switch\obj\Debug\net10.0\switch.csproj.CoreCompileInputs.cache
+L:\switch\switch\obj\Debug\net10.0\switch.dll
+L:\switch\switch\obj\Debug\net10.0\refint\switch.dll
+L:\switch\switch\obj\Debug\net10.0\switch.pdb
+L:\switch\switch\obj\Debug\net10.0\switch.genruntimeconfig.cache
+L:\switch\switch\obj\Debug\net10.0\ref\switch.dll
